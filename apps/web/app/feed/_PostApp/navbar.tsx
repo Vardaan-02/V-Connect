@@ -62,7 +62,7 @@ export default function Header() {
           
           <Link href="/" className="flex items-center space-x-2">
             <Zap className="relative h-8 w-8 text-cyan-400 transform group-hover:scale-110 transition-transform duration-200" />
-            <span className="text-white text-lg font-semibold tracking-wide">PearlPost</span>
+            <span className="text-white text-lg font-semibold tracking-wide">V-Connect</span>
           </Link>
 
           {!isMobile && (

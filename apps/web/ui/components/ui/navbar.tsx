@@ -40,7 +40,7 @@ export default function Navbar(props) {
               <Zap className="relative h-8 w-8 text-cyan-400 transform group-hover:scale-110 transition-transform duration-200" />
             </div>
             <span className="ml-3 text-2xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-cyan-400 to-blue-500">
-              PearlPost
+              V-Connect
             </span>
           </div>
           <div className="hidden md:flex items-center space-x-8">

@@ -34,7 +34,7 @@ export const Sidebar = () => {
   return (
     <div className="h-full bg-blue-900/20 text-white flex flex-col">
       <div className="p-4 flex items-center justify-between">
-        <h1 className="font-semibold text-lg">PearlPost</h1>
+        <h1 className="font-semibold text-lg">V-Connect</h1>
         
         <div className="flex gap-1">
           <Button size="icon" variant="ghost" className="text-white">

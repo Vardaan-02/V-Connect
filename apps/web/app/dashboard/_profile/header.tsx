@@ -58,7 +58,7 @@ export const Header = ({user}) => {
             <Zap className="relative h-8 w-8 text-cyan-400 transform group-hover:scale-110 transition-transform duration-200" />
             </div>
             <span className="font-medium text-lg bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-teal-400 animate-fade-in delay-75">
-            PearlPost
+            V-Connect
             </span>
         </div>
       </div>

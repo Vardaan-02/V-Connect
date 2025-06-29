@@ -1,5 +1,5 @@
 {
-  "name": "PearlPost",
+  "name": "V-Connect",
   "private": true,
   "scripts": {
     "build": "turbo run build",
@@ -13,6 +13,7 @@
     "turbo": "^2.4.4",
     "typescript": "5.7.3"
   },
+
   "packageManager": "pnpm@9.0.0",
   "engines": {
     "node": ">=18"
